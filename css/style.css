@@ -44,10 +44,12 @@ nav{
     color: #333;
     text-decoration: none;
     padding: 6px 43px;
-    transition:.5s;
+    transition:0.5s;
 }
 .nav1:hover{
     color: #0ef;
+    transform:scale(1.5);
+    
 }
 #home{
     height: 500px;
@@ -79,7 +81,7 @@ nav{
 }
 
 .container{
-    color: white;
+    color: #E0E1DD;
     margin-bottom: -100px;
     padding-top: 50px;
     z-index: 10px;
@@ -90,9 +92,11 @@ nav{
     font-size: 50px;
 }
 .auto-type{
-    color: rgb(30, 23, 230);
+    color: #2277d1;
+    
 }
 #name{
+    color: #E0E1DD;
     font-size: 80px;
-    -webkit-text-stroke: 0.9px rgb(0, 81, 255);
+
 }
