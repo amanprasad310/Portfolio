@@ -81,8 +81,8 @@ nav{
     z-index: 2;
     position: absolute;
     font-family: 'Baloo Paaji 2', sans-serif;
-    font-size: 300%;
-    margin-top: -50%;
+    font-size: 350%;
+    margin-top: -53%;
     margin-left: 53%;
 }
 .auto-type{
@@ -92,7 +92,7 @@ nav{
 #name{
     color: #3e5250;
     font-size: 140%;
-    margin: -22px;
+    /* margin: -22px; */
     margin-left: 2px;
 
 }
@@ -103,6 +103,6 @@ nav{
     width: 30px;
     gap: 30px;
     z-index: 2;
-    margin-top: -33%;
+    margin-top: -29%;
     margin-left: 52%;
 }
